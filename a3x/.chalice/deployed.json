@@ -1,0 +1,12 @@
+{
+  "dev": {
+    "api_handler_name": "a3x-dev",
+    "api_handler_arn": "arn:aws:lambda:us-east-1:722924879226:function:a3x-dev",
+    "lambda_functions": {},
+    "backend": "api",
+    "chalice_version": "1.0.0b1",
+    "rest_api_id": "xfxkautttb",
+    "api_gateway_stage": "dev",
+    "region": "us-east-1"
+  }
+}
